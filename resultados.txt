@@ -1,0 +1,1 @@
+instancia;inicializacion;num_max_iter;delta_learning_rate;delta_n;distance;learning_rate;factor_neuronas;corrida;tiempo_entrenamiento;tiempo_resolucion;tiempo_total
